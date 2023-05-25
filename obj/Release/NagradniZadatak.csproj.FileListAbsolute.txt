@@ -1,0 +1,7 @@
+C:\Users\lukaj\source\repos\NagradniZadatak\bin\Release\NagradniZadatak.exe.config
+C:\Users\lukaj\source\repos\NagradniZadatak\bin\Release\NagradniZadatak.exe
+C:\Users\lukaj\source\repos\NagradniZadatak\bin\Release\NagradniZadatak.pdb
+C:\Users\lukaj\source\repos\NagradniZadatak\obj\Release\NagradniZadatak.csproj.AssemblyReference.cache
+C:\Users\lukaj\source\repos\NagradniZadatak\obj\Release\NagradniZadatak.csproj.CoreCompileInputs.cache
+C:\Users\lukaj\source\repos\NagradniZadatak\obj\Release\NagradniZadatak.exe
+C:\Users\lukaj\source\repos\NagradniZadatak\obj\Release\NagradniZadatak.pdb
